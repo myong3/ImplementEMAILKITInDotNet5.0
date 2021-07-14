@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementEMAILKITInDotNet5.0", "WebApplication3\ImplementEMAILKITInDotNet5.0.csproj", "{CB6E7167-A0D9-4F2E-B273-AEF2D63D143F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementEMAILKITInDotNet5.0", "ImplementEMAILKITInDotNet5.0\ImplementEMAILKITInDotNet5.0.csproj", "{0FD9095B-7B65-44FA-871F-DB365057B5DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CB6E7167-A0D9-4F2E-B273-AEF2D63D143F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB6E7167-A0D9-4F2E-B273-AEF2D63D143F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB6E7167-A0D9-4F2E-B273-AEF2D63D143F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB6E7167-A0D9-4F2E-B273-AEF2D63D143F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD9095B-7B65-44FA-871F-DB365057B5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD9095B-7B65-44FA-871F-DB365057B5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD9095B-7B65-44FA-871F-DB365057B5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD9095B-7B65-44FA-871F-DB365057B5DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A0C9141E-3DB6-4B7B-9478-92645B5E6792}
+		SolutionGuid = {18B2EF8A-9D7C-4E36-B989-0B29A55AA50E}
 	EndGlobalSection
 EndGlobal
